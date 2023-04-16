@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">FitnessTecnet</string>
+    <string name="rolotuloimc">IMC</string>
+    <string name="rolotuloTbm">TBM</string>
+    <string name="imc_descricao">IMC é a sigla para Índice de Massa Corporal que serve para avaliar o peso do individuo em relação á sua altura e assim indicar se está dentrodo peso ideal, acima ou abaixo do peso desejado.\nPrencha os campos de peso e altura para descobrir o seu IMC\n</string>
+    <string name="peso">Peso</string>
+    <string name="altura">Altura(cm)</string>
+    <string name="calcular">Calcular</string>
+    <string name="lista">Listagem</string>
+    <string name="idade">Idade</string>
+    <string name="sexo">Sexo: M/F m/f</string>
+    <string-array name="dados">
+        <item>n</item>
+        <item>n</item>
+    </string-array>
+    <string name="tbm_descricao">A Taxa Metabólica Basal (TMB) é o mínimo de energia necessária para manter as funções do organismo em repouso, como os batimentos cardíacos, a pressão arterial, a respiração e a manutenção da temperatura corporal.</string>
+</resources>
